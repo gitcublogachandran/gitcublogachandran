@@ -24,7 +24,7 @@
 
 ---
 
-###  About Me
+### About Me
 
 I am a **Software Engineer** specializing in end-to-end full-stack web applications and **Large Language Models (LLMs)**. My work spans designing robust backend systems and intuitive frontend experiences, with a focus on both **building with LLMs** and **engineering around LLM architectures** — from prompt engineering, tool use, and agentic systems to scalable cloud deployments.
 
