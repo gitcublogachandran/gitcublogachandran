@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Minimal Apple-Grade Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:0a0a0c,60:1c1c1e,100:2c2c2e&height=220&section=header&text=Logachandran%20K%20M&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20•%20Full-Stack%20•%20LLMs%20%26%20Cloud%20Systems&descFontSize=16&descAlignY=64&descColor=86868b" width="100%" alt="Header" />
-
-<!-- Dynamic Animated Typing Banner -->
+<!-- Modern Native Apple-Grade SVG Header Banner -->
 <a href="https://github.com/gitcublogachandran">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display,-apple-system,BlinkMacSystemFont,Segoe+UI,Helvetica,Arial,sans-serif&weight=600&size=20&duration=3000&pause=1000&color=F5F5F7&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Building+Full-Stack+Web+Applications;Engineering+LLM-Powered+Workflows+%26+Intelligent+Agents;Fine-Tuning+Models+%26+Integrating+LLMs+in+Production;Deploying+Scalable+Cloud+Architectures" alt="Dynamic Role Showcase" />
+  <img src="./assets/header.svg" width="100%" alt="Logachandran K M - Header" />
 </a>
+
+<br/>
+
+<!-- Animated Cycling Headline -->
+<img src="./assets/typing.svg" width="100%" alt="Dynamic Skills" />
+
+<br/>
 
 <p align="center">
   <a href="https://logachandran.pages.dev">
@@ -26,11 +30,11 @@
 
 ### About Me
 
-I am a **Software Engineer** specializing in end-to-end full-stack web applications and **Large Language Models (LLMs)**. My work spans designing robust backend systems and intuitive frontend experiences, with a focus on both **building with LLMs** and **engineering around LLM architectures** — from prompt engineering, tool use, and agentic systems to scalable cloud deployments.
+I am a **Software Engineer** specializing in full-stack web applications and **Large Language Models (LLMs)**. My engineering spans designing scalable backend microservices, intuitive and fluid user interfaces, and architecting systems with and around LLMs — including autonomous agent workflows, prompt optimization, model evaluation, and cloud infrastructure deployment.
 
-* 💻 **Full-Stack Engineering:** Developing robust frontend interfaces and resilient backend microservices with Python, TypeScript, and React.
-* 🧠 **LLMs & Generative AI:** Deep expertise in working directly with LLMs, building autonomous agent pipelines, context-aware applications, and fine-tuned integrations.
-* ☁️ **Cloud & Infrastructure:** Deploying and managing modern cloud infrastructure, containerized workloads with Docker, and Linux environments.
+* 💻 **Full-Stack Engineering:** Developing robust frontend interfaces and resilient backend systems with Python, TypeScript, and React.
+* 🧠 **LLMs & Generative AI:** Deep expertise working directly with LLMs, building agentic pipelines, structured generation, tool use, and production integrations.
+* ☁️ **Cloud & Infrastructure:** Deploying and managing scalable cloud infrastructure, containerized environments with Docker, and Linux systems.
 
 ---
 
@@ -41,7 +45,7 @@ I am a **Software Engineer** specializing in end-to-end full-stack web applicati
     <td width="100%">
       <h3 align="left">🌐 Best Cotton Collections</h3>
       <p><b>Client Website & Production E-Commerce Architecture</b></p>
-      <p>Full-lifecycle commercial web platform built for Best Cotton Collections, featuring responsive product catalogs, customer inquiry workflows, and modern web infrastructure.</p>
+      <p>Full-lifecycle commercial web platform built for Best Cotton Collections, featuring responsive product catalogs, customer inquiry workflows, and modern cloud deployment.</p>
       <p>
         <a href="https://www.bestcottoncollections.com" target="_blank">
           <img src="https://img.shields.io/badge/Live_Site-www.bestcottoncollections.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
@@ -102,8 +106,5 @@ I am a **Software Engineer** specializing in end-to-end full-stack web applicati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logachandran-k-m-6ab713204/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://logachandran.pages.dev)
 [![Email](https://img.shields.io/badge/Yahoo_Mail-Contact-6001D2?style=for-the-badge&logo=yahoo!&logoColor=white)](mailto:logachandrankm@yahoo.com)
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:1c1c1e,100:000000&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>

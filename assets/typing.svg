@@ -1,0 +1,29 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 650 35' width='650px' height='35px'>
+    <style>
+        .txt {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            fill: #A1A1AA;
+            text-anchor: middle;
+            opacity: 0;
+            animation: cycle 16s infinite;
+        }
+        .t1 { animation-delay: 0s; }
+        .t2 { animation-delay: 4s; }
+        .t3 { animation-delay: 8s; }
+        .t4 { animation-delay: 12s; }
+
+        @keyframes cycle {
+            0% { opacity: 0; transform: translateY(6px); }
+            5% { opacity: 1; transform: translateY(0px); }
+            20% { opacity: 1; transform: translateY(0px); }
+            25% { opacity: 0; transform: translateY(-6px); }
+            100% { opacity: 0; }
+        }
+    </style>
+    <text x='50%' y='23' class='txt t1'>⚡ Architecting Full-Stack Web Applications</text>
+    <text x='50%' y='23' class='txt t2'>🧠 Engineering LLM Pipelines &amp; Autonomous AI Agents</text>
+    <text x='50%' y='23' class='txt t3'>🛠️ Working on LLMs &amp; Production Model Integration</text>
+    <text x='50%' y='23' class='txt t4'>☁️ Deploying Scalable Systems &amp; Cloud Infrastructure</text>
+</svg>
